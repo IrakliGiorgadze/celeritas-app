@@ -7,7 +7,7 @@ import (
 	"myapp/middleware"
 	"os"
 
-	"github.com/tsawler/celeritas"
+	"github.com/IrakliGiorgadze/celeritas/"
 )
 
 func initApplication() *application {

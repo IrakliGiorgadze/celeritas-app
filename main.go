@@ -5,7 +5,7 @@ import (
 	"myapp/handlers"
 	"myapp/middleware"
 
-	"github.com/tsawler/celeritas"
+	"github.com/IrakliGiorgadze/celeritas/"
 )
 
 type application struct {
